@@ -1,6 +1,6 @@
 # FullSequentialLanguage (FullSeq)
 
-A toy programming language
+A toy programming language with *Python 3* and *Antlr 4*
 
 #Code Structure:
 
